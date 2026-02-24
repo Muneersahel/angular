@@ -9,8 +9,8 @@ The following projects are not associated with a particular Angular version. We 
 Currently, Angular has three goals for the framework:
 
 1. Improve the [AI experience for developers](/ai)
-2. Improve the [Angular developer experience](#improving-the-angular-developer-experience)
-3. Improve the framework’s performance
+1. Improve the [Angular developer experience](#improving-the-angular-developer-experience)
+1. Improve the framework’s performance
 
 Continue reading to learn how we plan to deliver these objectives with specific project work.
 
